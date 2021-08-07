@@ -6,7 +6,6 @@ homepage = "https://github.com/RIckConsole/gpp_decrypt"
 repository = "https://github.com/RIckConsole/gpp_decrypt"
 version = "0.1.0"
 edition = "2018"
-license = "Apache-2.0"
 license-file = "LICENSE"
 keywords = ["decrypt", "gpp", "hackthebox", "openssl"]
 categories = ["cryptography", "encoding" ]
