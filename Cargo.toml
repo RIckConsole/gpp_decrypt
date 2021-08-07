@@ -1,0 +1,19 @@
+[package]
+name = "gpp_decrypt"
+description = "Decrypts the cpassword from Group Policy Preference files (Groups.xml)"
+readme = "README.md"
+homepage = "https://github.com/RIckConsole/gpp_decrypt"
+repository = "https://github.com/RIckConsole/gpp_decrypt"
+version = "0.1.0"
+edition = "2018"
+license = "Apache-2.0"
+license-file = "LICENSE"
+keywords = ["decrypt", "gpp", "hackthebox", "openssl"]
+categories = ["cryptography", "encoding" ]
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+base64 = "0.13.0"
+openssl = "0.10.35"
