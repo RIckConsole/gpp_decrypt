@@ -1,5 +1,5 @@
 # gpp_decrypt
-gpp_decrypt is a library for decrypting cpasswords in Group Policy Preference files. You'll find this useful for a certain [hackthebox](https://hackthebox.eu) machine as well. 
+gpp_decrypt is a library for decrypting cpasswords in Group Policy Preference files. You'll find this useful for a certain [hackthebox](https://hackthebox.eu) machine as well. If you're looking for the standalone binary version, see [gpp-decrypt](https://github.com/RIckConsole/gpp-decrypt)
 
 ## Usage
 ```rust
@@ -11,3 +11,4 @@ fn main() {
     println!("{}", result);
 }
 ```
+
